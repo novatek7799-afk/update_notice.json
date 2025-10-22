@@ -1,0 +1,9 @@
+{
+  "message": "🎉 Phiên bản 2.0 ra mắt! Tăng tốc độ render và thêm nhiều hiệu ứng mới.",
+  "text_color": "#FFFFFF",
+  "background_color": "#0A84FF",
+  "scroll_speed": 2,
+  "button_text": "Tải bản mới",
+  "button_color": "#34C759",
+  "update_url": "https://example.com/tool_latest.exe"
+}
