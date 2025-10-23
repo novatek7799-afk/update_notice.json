@@ -1,10 +1,10 @@
 {
   "version": "4.1",
-  "message": "🔥 Bản cập nhật 3.1: Tăng tốc render 40%, thêm hiệu ứng chuyển cảnh mới!",
+  "message": "🔥 Bản cập nhật 4.1: Tăng tốc render 40%, thêm hiệu ứng chuyển cảnh mới!",
   "text_color": "#FFFFFF",
   "background_color": "#0A84FF",
   "scroll_speed": 2,
   "button_text": "Cập nhật ngay",
   "button_color": "#34C759",
-  "update_url": "https://example.com/tool_latest.exe"
+  "update_url": "https://drive.google.com/uc?id=1IshQBLv9h3vlLn9ENDGhXnf22MQBzZMs&export=download"
 }
