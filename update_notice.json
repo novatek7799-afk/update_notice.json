@@ -1,10 +1,15 @@
 {
-  "version": "4.1",
-  "message": "🔥 Bản cập nhật 4.1: Tối ưu hiệu năng, sửa lỗi nhỏ.",
-  "text_color": "#FFFFFF",
-  "background_color": "#0A84FF",
+  "version": "1.1.0",
+  "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
+  "update_url": "https://www.dropbox.com/scl/fi/ok74wbmm0t37i6djrkyfk/main2.exe?rlkey=wcjplulaxoyx8atgqlvgs3ei4&dl=1",
+  "news_message": "📰 Tin nóng: Hôm nay có sự kiện bóng đá hấp dẫn lúc 20h!",
+  "news_url": "https://example.com/news",
+  "background_color": "#FFF9C4",
+  "text_color": "#000000",
   "scroll_speed": 2,
-  "button_text": "Cập nhật ngay",
-  "button_color": "#34C759",
-  "update_url": "https://download1326.mediafire.com/yph3pdqfbwtgCrq2M_OtUPY2f73TMvwm07u5XTwk0SBRhjwkcDS6w_eSH7jQZ1-f3UJ6BUAXdETbkQSlpdmMhaj2Nf1Nqf7UpuWoR6I2ZA2G2ZlF-Wv6Z-EfmACfD83fqlU99yxBOAOPSphk_r97oIa3f1yNLENOaeFeUDZZmqU/lmf0hwfa6wby3k6/main2.exe"
+  "update_button_text": "Cập nhật ngay",
+  "update_button_color": "#0A84FF",
+  "news_button_text": "Xem chi tiết",
+  "news_button_color": "#FF5722",
+  "changelog": "Sửa lỗi, thêm tính năng mới"
 }
