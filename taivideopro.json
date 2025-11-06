@@ -1,27 +1,15 @@
 {
   "version": "1.1.1",
-
   "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
   "update_url": "https://www.dropbox.com/scl/fi/ok74wbmm0t37i6djrkyfk/main2.exe?rlkey=wcjplulaxoyx8atgqlvgs3ei4&dl=1",
-
-  "news_messages": [
-    "📰 Instagram - Facebook chỉ tải được video đơn",
-    "🎬 TikTok - YouTube tải full không giới hạn",
-    "⚡ Tăng tốc độ tải video x2 trong phiên bản mới",
-    "🛠️ Đã sửa lỗi treo khi dán link liên tục",
-    "🌐 Auto đổi IP giúp hạn chế bị chặn"
-  ],
+  "news_message": "📰 instagram - facebook chỉ tải được video đơn (tiktok - youtube full)   ",
   "news_url": "https://2captcha.com/",
-
   "background_color": "#FFF9C4",
   "text_color": "#000000",
   "scroll_speed": 2,
-
   "update_button_text": "Cập nhật ngay",
   "update_button_color": "#0A84FF",
-
   "news_button_text": "Xem chi tiết",
   "news_button_color": "#FF5722",
-
   "changelog": "Sửa lỗi, thêm tính năng mới"
 }
