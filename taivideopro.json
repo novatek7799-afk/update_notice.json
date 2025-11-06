@@ -1,15 +1,42 @@
 {
   "version": "1.1.1",
-  "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
-  "update_url": "https://www.dropbox.com/scl/fi/ok74wbmm0t37i6djrkyfk/main2.exe?rlkey=wcjplulaxoyx8atgqlvgs3ei4&dl=1",
-  "news_message": "📰 instagram - facebook chỉ tải được video đơn (tiktok - youtube full)   ",
-  "news_url": "https://2captcha.com/",
-  "background_color": "#FFF9C4",
-  "text_color": "#000000",
-  "scroll_speed": 2,
-  "update_button_text": "Cập nhật ngay",
-  "update_button_color": "#0A84FF",
-  "news_button_text": "Xem chi tiết",
-  "news_button_color": "#FF5722",
-  "changelog": "Sửa lỗi, thêm tính năng mới"
+
+  "notifications": [
+    {
+      "type": "update",
+      "message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
+      "button_text": "Cập nhật",
+      "button_url": "https://link1.com"
+    },
+    {
+      "type": "news",
+      "message": "📰 Instagram - Facebook chỉ tải được video đơn.",
+      "button_text": "Xem chi tiết",
+      "button_url": "https://2captcha.com/"
+    },
+    {
+      "type": "tip",
+      "message": "💡 Mẹo: Dùng Proxy sẽ giúp tăng tỷ lệ tải thành công!",
+      "button_text": "Hướng dẫn",
+      "button_url": "https://link2.com"
+    },
+    {
+      "type": "alert",
+      "message": "⚠️ Tạm thời server US đang bảo trì 10 phút!",
+      "button_text": "Xem thêm",
+      "button_url": "https://status.com"
+    },
+    {
+      "type": "feature",
+      "message": "✨ Tính năng mới: Auto upload nhiều video dạng Random!",
+      "button_text": "Xem tính năng",
+      "button_url": "https://link3.com"
+    }
+  ],
+
+  "ui": {
+    "background_color": "#FFF9C4",
+    "text_color": "#000000",
+    "scroll_speed": 2
+  }
 }
