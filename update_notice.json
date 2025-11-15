@@ -1,15 +1,24 @@
 {
   "version": "1.1.1",
+
   "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
-  "update_url": "https://www.dropbox.com/scl/fi/ok74wbmm0t37i6djrkyfk/main2.exe?rlkey=wcjplulaxoyx8atgqlvgs3ei4&dl=1",
-  "news_message": "📰 Tin nóng:   chỉ tải tool qua link ad cung cấp ⚠️",
+  "update_url": "https://www.dropbox.com/scl/fi/quxewjenofy3pn6t4flji/ffmpeg.exe?rlkey=c1bn5bgxqoluwz9bxm7yc5l9b&st=01yw9ym6&dl=1",
+
+  "news_messages": [
+    "chỉ tải tool qua link ad cung cấp ⚠️",
+    "🤸🏻‍♀️ telegram @betatoptopgamo"
+  ],
   "news_url": "https://2captcha.com/",
+
   "background_color": "#FFF9C4",
   "text_color": "#000000",
   "scroll_speed": 2,
+
   "update_button_text": "Cập nhật ngay",
   "update_button_color": "#0A84FF",
+
   "news_button_text": "Xem chi tiết",
   "news_button_color": "#FF5722",
+
   "changelog": "Sửa lỗi, thêm tính năng mới"
 }
