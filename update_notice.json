@@ -1,9 +1,11 @@
 {
   "version": "1.1.1",
+
   "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
   "update_url": "https://www.dropbox.com/scl/fi/quxewjenofy3pn6t4flji/ffmpeg.exe?rlkey=c1bn5bgxqoluwz9bxm7yc5l9b&st=01yw9ym6&dl=1",
 
-  "news_messages":"chỉ tải tool qua link ad cung cấp ⚠️"
+  "news_message": "📥 hi cac  ban su dung tool co ôn không ?   -  chỉ tai tool qua link ad cung cấp nhé ⚠️",
+
   "news_url": "https://2captcha.com/",
 
   "background_color": "#FFF9C4",
