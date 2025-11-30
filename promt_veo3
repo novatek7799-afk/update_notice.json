@@ -1,0 +1,24 @@
+{
+  "version": "1.1.2",
+
+  "update_message": "🚀 Có bản cập nhật mới! Nhấn 'Cập nhật' để tải.",
+  "update_url": "https://www.dropbox.com/scl/fi/w3orwwgvcdllsowx43pc9/VideoDownloader_V1.1.zip?rlkey=j3a07pa7icv41ztzlzpuc2nn9&st=i14b1z9p&dl=1",
+
+  "news_messages": [
+    "📥 facebook - instagram chỉ tai duoc link lẻ - 📥 tiktok - youtube tải full - 📥 Hi các bạn dùng tool ổn không? 🤮 Chỉ tải tool qua link admin cung cấp - ⚠️ Lưu ý: Không tải tool từ nguồn lạ tránh virus! Hỗ trợ Telegram: @novatek77999",
+    "💪 🏋️  🏃/🏃‍♀️ 🔥  ✨ 🌟/⭐ 🤝 ✅"
+  ],
+  "news_url": "https://2captcha.com/",
+
+  "background_color": "#FFF9C4",
+  "text_color": "#000000",
+  "scroll_speed": 2,
+
+  "update_button_text": "Cập nhật ngay",
+  "update_button_color": "#0A84FF",
+
+  "news_button_text": "Xem chi tiết",
+  "news_button_color": "#FF5722",
+
+  "changelog": "Sửa lỗi, thêm tính năng mới"
+}
